@@ -1,0 +1,2193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Publicar Maps 10/07/2026 16:41</name>
+    <Placemark>
+      <name>Manobra_linha 1</name>
+      <Style><LineStyle><color>ffe7ff20</color><width>2</width></LineStyle><PolyStyle><color>55e7ff20</color></PolyStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Manobra_linha</value></Data>
+        <Data name="classificacao"><value>Manobra_linha</value></Data>
+      </ExtendedData>
+      <Polygon><tessellate>1</tessellate>
+        <outerBoundaryIs><LinearRing><coordinates>-51.93440977,-23.32304669,0 -51.93432002,-23.32288741,0 -51.93383894,-23.32187769,0 -51.93364838,-23.32142236,0 -51.93360427,-23.32122480,0 -51.93349641,-23.32133173,0 -51.93004656,-23.32423045,0 -51.92993671,-23.32438631,0 -51.92976930,-23.32446730,0 -51.92763154,-23.32628623,0 -51.92596385,-23.32767398,0 -51.92582780,-23.32780563,0 -51.92169063,-23.33126503,0 -51.92123133,-23.33166825,0 -51.91906475,-23.33346649,0 -51.91901393,-23.33355087,0 -51.91905188,-23.33361668,0 -51.91944864,-23.33399413,0 -51.91961312,-23.33410490,0 -51.91985128,-23.33431756,0 -51.92043334,-23.33478613,0 -51.92068123,-23.33494950,0 -51.92087954,-23.33515367,0 -51.92096897,-23.33518832,0 -51.92105443,-23.33516509,0 -51.92115228,-23.33502943,0 -51.92127442,-23.33495933,0 -51.92152050,-23.33466597,0 -51.92278182,-23.33302504,0 -51.92686232,-23.32950263,0 -51.92690935,-23.32947768,0 -51.92719753,-23.32922958,0 -51.92757356,-23.32887991,0 -51.93181745,-23.32530452,0 -51.93181260,-23.32520122,0 -51.93172464,-23.32506614,0 -51.93126444,-23.32470339,0 -51.93121535,-23.32463401,0 -51.93121249,-23.32458305,0 -51.93123452,-23.32453167,0 -51.93142051,-23.32430658,0 -51.93142288,-23.32423176,0 -51.93137872,-23.32412483,0 -51.93136385,-23.32400429,0 -51.93137154,-23.32393881,0 -51.93140928,-23.32388451,0 -51.93175194,-23.32373899,0 -51.93187328,-23.32366940,0 -51.93203118,-23.32366098,0 -51.93212829,-23.32368063,0 -51.93231848,-23.32378831,0 -51.93255663,-23.32397997,0 -51.93279174,-23.32425436,0 -51.93287512,-23.32438635,0 -51.93311614,-23.32420417,0 -51.93432066,-23.32317993,0 -51.93440378,-23.32310055,0 -51.93440977,-23.32304669,0</coordinates></LinearRing></outerBoundaryIs>
+        <innerBoundaryIs><LinearRing><coordinates>-51.93104345,-23.32363774,0 -51.93108387,-23.32359267,0 -51.93114620,-23.32358214,0 -51.93120128,-23.32361107,0 -51.93121754,-23.32363671,0 -51.93121795,-23.32369522,0 -51.93117753,-23.32374029,0 -51.93111520,-23.32375082,0 -51.93106012,-23.32372189,0 -51.93104386,-23.32369626,0 -51.93104345,-23.32363774,0</coordinates></LinearRing></innerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 52</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.93394084,-23.32209166,0 -51.93395068,-23.32254302,0 -51.93391053,-23.32299283,0 -51.93383244,-23.32334662,0 -51.93368727,-23.32372034,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 50</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.93386500,-23.32193564,0 -51.93388605,-23.32247708,0 -51.93383984,-23.32301686,0 -51.93372823,-23.32345602,0 -51.93355265,-23.32383456,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 48</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.93378797,-23.32176063,0 -51.93381993,-23.32248241,0 -51.93377218,-23.32302205,0 -51.93371280,-23.32328731,0 -51.93362366,-23.32354530,0 -51.93350242,-23.32379187,0 -51.93339254,-23.32397030,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 46</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.93371029,-23.32157503,0 -51.93375399,-23.32247715,0 -51.93373192,-23.32283772,0 -51.93368920,-23.32310571,0 -51.93361960,-23.32336881,0 -51.93351764,-23.32362270,0 -51.93338411,-23.32386383,0 -51.93320282,-23.32413095,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 44</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.93363145,-23.32137072,0 -51.93368817,-23.32245314,0 -51.93366819,-23.32281381,0 -51.93362691,-23.32308199,0 -51.93352828,-23.32343127,0 -51.93341523,-23.32368111,0 -51.93322091,-23.32399446,0 -51.93299491,-23.32429085,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 42</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.93355922,-23.32127280,0 -51.93362220,-23.32244538,0 -51.93360268,-23.32280607,0 -51.93354156,-23.32316269,0 -51.93342686,-23.32350766,0 -51.93330073,-23.32375212,0 -51.93309564,-23.32405964,0 -51.93285495,-23.32435244,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 40</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.93349675,-23.32133145,0 -51.93355627,-23.32241379,0 -51.93353963,-23.32277461,0 -51.93348140,-23.32313164,0 -51.93340306,-23.32339260,0 -51.93328892,-23.32364201,0 -51.93309213,-23.32395405,0 -51.93282053,-23.32429557,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 38</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.93343392,-23.32138426,0 -51.93349005,-23.32246668,0 -51.93346756,-23.32282722,0 -51.93342230,-23.32309484,0 -51.93334659,-23.32335644,0 -51.93323425,-23.32360652,0 -51.93303812,-23.32391891,0 -51.93278246,-23.32424267,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 36</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.93337108,-23.32143710,0 -51.93342424,-23.32242929,0 -51.93340538,-23.32279000,0 -51.93336296,-23.32305801,0 -51.93329010,-23.32332031,0 -51.93317956,-23.32357106,0 -51.93298410,-23.32388379,0 -51.93274038,-23.32419398,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 34</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.93330825,-23.32148994,0 -51.93335775,-23.32248222,0 -51.93333277,-23.32284259,0 -51.93328382,-23.32310964,0 -51.93320165,-23.32336954,0 -51.93308035,-23.32361602,0 -51.93287616,-23.32392403,0 -51.93269726,-23.32414636,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 32</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.93324541,-23.32154279,0 -51.93329212,-23.32244483,0 -51.93327092,-23.32280542,0 -51.93322493,-23.32307291,0 -51.93314552,-23.32333353,0 -51.93302591,-23.32358069,0 -51.93282216,-23.32388893,0 -51.93265582,-23.32409684,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 30</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.93318258,-23.32159564,0 -51.93322543,-23.32249776,0 -51.93320871,-23.32276821,0 -51.93316579,-23.32303614,0 -51.93308937,-23.32329752,0 -51.93297147,-23.32354536,0 -51.93282199,-23.32377843,0 -51.93261556,-23.32404576,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 28</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.93311975,-23.32164849,0 -51.93315757,-23.32227976,0 -51.93315795,-23.32255068,0 -51.93313613,-23.32282080,0 -51.93308618,-23.32308768,0 -51.93299911,-23.32334615,0 -51.93291702,-23.32351002,0 -51.93276795,-23.32374331,0 -51.93257341,-23.32399674,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 26</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.93305691,-23.32170135,0 -51.93309304,-23.32251331,0 -51.93307428,-23.32278363,0 -51.93302744,-23.32305098,0 -51.93294349,-23.32331033,0 -51.93286256,-23.32347468,0 -51.93271390,-23.32370819,0 -51.93252607,-23.32395375,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 24</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.93299408,-23.32175420,0 -51.93302774,-23.32247593,0 -51.93301204,-23.32274642,0 -51.93296844,-23.32301424,0 -51.93288766,-23.32327443,0 -51.93280800,-23.32343930,0 -51.93265986,-23.32367307,0 -51.93247512,-23.32391496,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 22</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.93293124,-23.32180705,0 -51.93296048,-23.32252885,0 -51.93293948,-23.32279902,0 -51.93288823,-23.32306566,0 -51.93283175,-23.32323850,0 -51.93275345,-23.32340392,0 -51.93260581,-23.32363796,0 -51.93242606,-23.32387397,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 20</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.93286841,-23.32185991,0 -51.93289541,-23.32249148,0 -51.93287764,-23.32276185,0 -51.93282980,-23.32302903,0 -51.93277560,-23.32320249,0 -51.93269888,-23.32336853,0 -51.93255176,-23.32360284,0 -51.93237725,-23.32383260,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 18</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.93280558,-23.32191276,0 -51.93282789,-23.32254440,0 -51.93277105,-23.32299234,0 -51.93271928,-23.32316643,0 -51.93264418,-23.32333308,0 -51.93249772,-23.32356772,0 -51.93232626,-23.32379383,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 16</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.93274274,-23.32196562,0 -51.93275929,-23.32259728,0 -51.93272937,-23.32286670,0 -51.93269004,-23.32304358,0 -51.93262923,-23.32321513,0 -51.93254426,-23.32337770,0 -51.93227282,-23.32375799,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 14</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.93267991,-23.32201847,0 -51.93269509,-23.32255994,0 -51.93266872,-23.32282968,0 -51.93263190,-23.32300702,0 -51.93257367,-23.32317933,0 -51.93248993,-23.32334243,0 -51.93221815,-23.32372362,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 12</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.93261707,-23.32207132,0 -51.93262613,-23.32261281,0 -51.93259273,-23.32288185,0 -51.93254885,-23.32305779,0 -51.93243558,-23.32330715,0 -51.93216014,-23.32369305,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 10</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.93255424,-23.32212418,0 -51.93256589,-23.32239489,0 -51.93255594,-23.32266561,0 -51.93249146,-23.32302142,0 -51.93238122,-23.32327187,0 -51.93209508,-23.32367068,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 8</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.93249141,-23.32217703,0 -51.93249276,-23.32262832,0 -51.93243371,-23.32298495,0 -51.93232682,-23.32323656,0 -51.93217414,-23.32346783,0 -51.93201859,-23.32366065,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 6</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <MultiGeometry>
+        <LineString><tessellate>1</tessellate><coordinates>-51.93242849,-23.32222996,0 -51.93242193,-23.32268114,0 -51.93234911,-23.32303539,0 -51.93229438,-23.32316105,0 -51.93217333,-23.32335703,0 -51.93192928,-23.32366302,0</coordinates></LineString>
+        <LineString><tessellate>1</tessellate><coordinates>-51.93192928,-23.32366302,0 -51.93192928,-23.32366302,0</coordinates></LineString>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 4</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.93236497,-23.32228339,0 -51.93234948,-23.32273430,0 -51.93231689,-23.32291234,0 -51.93225910,-23.32308468,0 -51.93216987,-23.32324525,0 -51.93200990,-23.32347229,0 -51.93175872,-23.32373567,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 2</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.93230078,-23.32233738,0 -51.93227498,-23.32278778,0 -51.93223454,-23.32296439,0 -51.93216253,-23.32313202,0 -51.93201111,-23.32336397,0 -51.93183329,-23.32357924,0 -51.93169467,-23.32370650,0 -51.93145569,-23.32385825,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 1</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.93223579,-23.32239205,0 -51.93221383,-23.32275244,0 -51.93214668,-23.32301563,0 -51.93195606,-23.32333032,0 -51.93171020,-23.32361053,0 -51.93147864,-23.32377591,0 -51.93130454,-23.32385793,0 -51.93112052,-23.32391888,0 -51.93093000,-23.32395916,0 -51.93078272,-23.32397223,0 -51.93063745,-23.32396964,0 -51.93039710,-23.32393643,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 54</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.93401480,-23.32224087,0 -51.93401464,-23.32260207,0 -51.93398185,-23.32296194,0 -51.93390910,-23.32331673,0 -51.93380442,-23.32362085,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 56</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.93408421,-23.32238216,0 -51.93407230,-23.32274317,0 -51.93404086,-23.32301252,0 -51.93398696,-23.32327879,0 -51.93390974,-23.32353134,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 58</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <MultiGeometry>
+        <LineString><tessellate>1</tessellate><coordinates>-51.93414940,-23.32251906,0 -51.93411395,-23.32296924,0 -51.93400712,-23.32344849,0</coordinates></LineString>
+        <LineString><tessellate>1</tessellate><coordinates>-51.93400712,-23.32344849,0 -51.93400712,-23.32344849,0</coordinates></LineString>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 60</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.93421044,-23.32265341,0 -51.93417412,-23.32301301,0 -51.93409861,-23.32337053,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 62</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <MultiGeometry>
+        <LineString><tessellate>1</tessellate><coordinates>-51.93426810,-23.32277750,0 -51.93418571,-23.32329615,0</coordinates></LineString>
+        <LineString><tessellate>1</tessellate><coordinates>-51.93418571,-23.32329615,0 -51.93418571,-23.32329615,0</coordinates></LineString>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 64</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.93432299,-23.32289346,0 -51.93426949,-23.32322429,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 66</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.93437699,-23.32299213,0 -51.93435089,-23.32315297,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 228</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.93216982,-23.32244754,0 -51.93213775,-23.32280719,0 -51.93206962,-23.32302878,0 -51.93184447,-23.32337136,0 -51.93162360,-23.32360193,0 -51.93150150,-23.32369002,0 -51.93133189,-23.32377965,0 -51.93105655,-23.32387215,0 -51.93076697,-23.32391157,0 -51.93045767,-23.32388583,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 229</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.93210269,-23.32250401,0 -51.93207693,-23.32277373,0 -51.93201481,-23.32299206,0 -51.93178820,-23.32333912,0 -51.93159559,-23.32354299,0 -51.93135712,-23.32369957,0 -51.93108569,-23.32380122,0 -51.93079770,-23.32384943,0 -51.93051958,-23.32383413,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 230</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.93203414,-23.32256167,0 -51.93201550,-23.32274142,0 -51.93197395,-23.32291774,0 -51.93191769,-23.32303813,0 -51.93178748,-23.32323406,0 -51.93167105,-23.32337913,0 -51.93153665,-23.32351013,0 -51.93137966,-23.32361745,0 -51.93121835,-23.32369302,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 231</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.93108194,-23.32373857,0 -51.93083687,-23.32378571,0 -51.93058324,-23.32378095,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 232</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <MultiGeometry>
+        <LineString><tessellate>1</tessellate><coordinates>-51.93196376,-23.32262086,0 -51.93196376,-23.32262086,0</coordinates></LineString>
+        <LineString><tessellate>1</tessellate><coordinates>-51.93196376,-23.32262086,0 -51.93193777,-23.32279981,0 -51.93189731,-23.32293514,0 -51.93172961,-23.32320427,0 -51.93161247,-23.32334884,0 -51.93147611,-23.32347806,0 -51.93135145,-23.32356197,0 -51.93121262,-23.32362895,0</coordinates></LineString>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 233</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.93104184,-23.32368608,0 -51.93085062,-23.32372299,0 -51.93064907,-23.32372595,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 234</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.93189080,-23.32268223,0 -51.93186438,-23.32282550,0 -51.93182115,-23.32294428,0 -51.93161329,-23.32324982,0 -51.93141319,-23.32344705,0 -51.93129879,-23.32352010,0 -51.93115533,-23.32358515,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 235</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.93105532,-23.32361847,0 -51.93090040,-23.32365472,0 -51.93071844,-23.32366798,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 236</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.93181407,-23.32274678,0 -51.93177773,-23.32288252,0 -51.93171385,-23.32299921,0 -51.93155117,-23.32322452,0 -51.93142144,-23.32335946,0 -51.93131445,-23.32343885,0 -51.93113531,-23.32352687,0 -51.93095746,-23.32358101,0 -51.93079310,-23.32360546,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 237</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.93173070,-23.32281690,0 -51.93167924,-23.32293255,0 -51.93154300,-23.32313193,0 -51.93135110,-23.32333605,0 -51.93114737,-23.32345556,0 -51.93087715,-23.32353468,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 238</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.93161428,-23.32291482,0 -51.93145375,-23.32314143,0 -51.93132421,-23.32327648,0 -51.93116448,-23.32337984,0 -51.93097939,-23.32344875,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 239</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.93142660,-23.32307267,0 -51.93126091,-23.32324691,0 -51.93111505,-23.32333469,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 49</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.93182338,-23.32524241,0 -51.93145096,-23.32535234,0 -51.93116360,-23.32540653,0 -51.93087174,-23.32543313,0 -51.93057846,-23.32543243,0 -51.93028670,-23.32540478,0 -51.92999880,-23.32535305,0 -51.92903494,-23.32510128,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 51</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.93180588,-23.32531379,0 -51.93143201,-23.32541947,0 -51.93114401,-23.32547061,0 -51.93085193,-23.32549512,0 -51.93055866,-23.32549232,0 -51.93026701,-23.32546368,0 -51.92997921,-23.32541143,0 -51.92897478,-23.32514877,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 47</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.93180434,-23.32518387,0 -51.93143196,-23.32529392,0 -51.93114447,-23.32534748,0 -51.93085251,-23.32537300,0 -51.93055926,-23.32537016,0 -51.93007556,-23.32530695,0 -51.92908599,-23.32505137,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 45</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.93177021,-23.32513063,0 -51.93149182,-23.32521589,0 -51.93120598,-23.32527652,0 -51.93091482,-23.32530899,0 -51.93062157,-23.32531204,0 -51.93032951,-23.32528746,0 -51.93004134,-23.32523702,0 -51.92914080,-23.32500247,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 43</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.93173289,-23.32507851,0 -51.93145402,-23.32516242,0 -51.93116759,-23.32522056,0 -51.93087606,-23.32524979,0 -51.93058280,-23.32524940,0 -51.93009903,-23.32518691,0 -51.92919762,-23.32495409,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 41</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.93168380,-23.32503043,0 -51.93140398,-23.32511160,0 -51.93111678,-23.32516637,0 -51.93082474,-23.32519100,0 -51.93062919,-23.32519028,0 -51.93014468,-23.32513341,0 -51.92925444,-23.32490572,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 53</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.93167752,-23.32541897,0 -51.93129878,-23.32550858,0 -51.93100842,-23.32554670,0 -51.93071539,-23.32555797,0 -51.93042253,-23.32554339,0 -51.92994120,-23.32546581,0 -51.92891602,-23.32519662,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 39</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.93162895,-23.32498386,0 -51.93134809,-23.32506188,0 -51.93105992,-23.32511204,0 -51.93076742,-23.32513118,0 -51.93057193,-23.32512653,0 -51.93008895,-23.32505947,0 -51.92931124,-23.32485734,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 37</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.93157319,-23.32493719,0 -51.93109914,-23.32504553,0 -51.93090474,-23.32506510,0 -51.93061151,-23.32506767,0 -51.93012781,-23.32500527,0 -51.92936804,-23.32480896,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 55</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.93156533,-23.32551349,0 -51.93127945,-23.32557405,0 -51.93098866,-23.32560933,0 -51.93069556,-23.32561880,0 -51.93040277,-23.32560289,0 -51.92992163,-23.32552419,0 -51.92885831,-23.32524476,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 57</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.93146152,-23.32560102,0 -51.93117337,-23.32565150,0 -51.93088137,-23.32567686,0 -51.93058808,-23.32567695,0 -51.93029596,-23.32565249,0 -51.92981721,-23.32556204,0 -51.92880072,-23.32529293,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 59</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.93136406,-23.32568327,0 -51.93087914,-23.32573801,0 -51.93058585,-23.32573788,0 -51.93029371,-23.32571366,0 -51.92981469,-23.32562444,0 -51.92874318,-23.32534112,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 61</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.93127228,-23.32576073,0 -51.93078576,-23.32580160,0 -51.93049258,-23.32579378,0 -51.93020119,-23.32576277,0 -51.92981855,-23.32568838,0 -51.92868567,-23.32538931,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 63</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.93118472,-23.32583468,0 -51.93069712,-23.32586269,0 -51.93040424,-23.32584799,0 -51.93011368,-23.32581099,0 -51.92973258,-23.32573005,0 -51.92862819,-23.32543750,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 65</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.93110073,-23.32590561,0 -51.93061248,-23.32592181,0 -51.93012648,-23.32587507,0 -51.92974476,-23.32579661,0 -51.92857071,-23.32548570,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 67</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.93101974,-23.32597400,0 -51.93053118,-23.32597944,0 -51.93004627,-23.32592366,0 -51.92976028,-23.32586336,0 -51.92851325,-23.32553391,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 68</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.93094127,-23.32604030,0 -51.93045266,-23.32603574,0 -51.92996896,-23.32597146,0 -51.92845579,-23.32558211,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 35</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.93151641,-23.32489046,0 -51.93123329,-23.32496108,0 -51.93104052,-23.32499142,0 -51.93074795,-23.32500948,0 -51.93055252,-23.32500315,0 -51.93016580,-23.32495066,0 -51.92942484,-23.32476058,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 33</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.93145768,-23.32484381,0 -51.93117333,-23.32491002,0 -51.93097991,-23.32493653,0 -51.93058926,-23.32494429,0 -51.93010664,-23.32487544,0 -51.92948164,-23.32471220,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 31</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.93139465,-23.32479772,0 -51.93101222,-23.32487193,0 -51.93081728,-23.32488624,0 -51.93052419,-23.32487866,0 -51.93013858,-23.32481974,0 -51.92953843,-23.32466382,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 29</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.93132916,-23.32475152,0 -51.93094499,-23.32481739,0 -51.93055428,-23.32481996,0 -51.93016825,-23.32476355,0 -51.92959521,-23.32461544,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 27</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.93126519,-23.32470402,0 -51.93087944,-23.32476116,0 -51.93048882,-23.32475307,0 -51.93019971,-23.32470774,0 -51.92965199,-23.32456705,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 25</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.93122159,-23.32465103,0 -51.93093250,-23.32469600,0 -51.93054185,-23.32469649,0 -51.93015662,-23.32463571,0 -51.92970876,-23.32451867,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 23</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.93121135,-23.32459060,0 -51.93092229,-23.32463565,0 -51.93053168,-23.32463435,0 -51.93024212,-23.32459169,0 -51.92976569,-23.32447032,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 21</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.93124182,-23.32452059,0 -51.93085644,-23.32457920,0 -51.93056333,-23.32457589,0 -51.93027341,-23.32453543,0 -51.92984385,-23.32442760,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 19</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.93131114,-23.32443888,0 -51.93092876,-23.32451239,0 -51.93063575,-23.32451942,0 -51.93034473,-23.32448657,0 -51.92993439,-23.32438816,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 17</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.93139860,-23.32434768,0 -51.93102087,-23.32443964,0 -51.93072869,-23.32446064,0 -51.93034014,-23.32442370,0 -51.92997566,-23.32433567,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 15</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.93142371,-23.32427393,0 -51.93104822,-23.32437347,0 -51.93075655,-23.32439963,0 -51.93036765,-23.32436649,0 -51.93000834,-23.32428090,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 13</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.93141730,-23.32421068,0 -51.93104254,-23.32431240,0 -51.93075091,-23.32433876,0 -51.93045861,-23.32431891,0 -51.93004911,-23.32422827,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 11</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.93138901,-23.32415547,0 -51.93101372,-23.32425536,0 -51.93072173,-23.32427768,0 -51.93042988,-23.32425295,0 -51.93010613,-23.32417995,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 9</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.93137275,-23.32409580,0 -51.93109340,-23.32417787,0 -51.93080329,-23.32421544,0 -51.93051060,-23.32420267,0 -51.93016355,-23.32413174,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 7</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.93136551,-23.32403272,0 -51.93108683,-23.32411662,0 -51.93079682,-23.32415470,0 -51.93050425,-23.32414032,0 -51.93022109,-23.32408355,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 5</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.93136490,-23.32396675,0 -51.93108736,-23.32405378,0 -51.93079766,-23.32409361,0 -51.93050516,-23.32407878,0 -51.93027900,-23.32403512,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 3</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.93142655,-23.32387244,0 -51.93115454,-23.32397307,0 -51.93086772,-23.32402791,0 -51.93057485,-23.32402572,0 -51.93033759,-23.32398615,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 173</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.92316891,-23.33269187,0 -51.92296337,-23.33249880,0 -51.92280240,-23.33227279,0 -51.92259944,-23.33186205,0 -51.92216284,-23.33086907,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 172</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.92312045,-23.33273361,0 -51.92288262,-23.33250306,0 -51.92270760,-23.33223513,0 -51.92211069,-23.33091273,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 171</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.92307202,-23.33277537,0 -51.92280671,-23.33251077,0 -51.92265695,-23.33227810,0 -51.92245785,-23.33186569,0 -51.92205855,-23.33095639,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 170</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.92302366,-23.33281713,0 -51.92275806,-23.33255270,0 -51.92260645,-23.33232105,0 -51.92240603,-23.33190921,0 -51.92200642,-23.33100007,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 169</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.92297535,-23.33285893,0 -51.92270949,-23.33259466,0 -51.92255607,-23.33236402,0 -51.92235426,-23.33195277,0 -51.92195429,-23.33104376,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 168</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.92292712,-23.33290079,0 -51.92266102,-23.33263668,0 -51.92250586,-23.33240701,0 -51.92230254,-23.33199641,0 -51.92190216,-23.33108746,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 167</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.92287902,-23.33294277,0 -51.92261269,-23.33267881,0 -51.92245585,-23.33245009,0 -51.92225096,-23.33204018,0 -51.92185004,-23.33113117,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 166</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.92283200,-23.33298566,0 -51.92256528,-23.33272200,0 -51.92240667,-23.33249431,0 -51.92219996,-23.33208521,0 -51.92179793,-23.33117490,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 165</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.92278135,-23.33302547,0 -51.92251489,-23.33276154,0 -51.92235524,-23.33253447,0 -51.92214707,-23.33212601,0 -51.92174583,-23.33121865,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 164</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.92274018,-23.33307334,0 -51.92247240,-23.33281049,0 -51.92226367,-23.33250551,0 -51.92206083,-23.33209470,0 -51.92169373,-23.33126243,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 163</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.92270560,-23.33312681,0 -51.92243560,-23.33286584,0 -51.92222214,-23.33256366,0 -51.92201645,-23.33215408,0 -51.92164166,-23.33130624,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 162</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.92266723,-23.33317706,0 -51.92239579,-23.33291731,0 -51.92217859,-23.33261740,0 -51.92197014,-23.33220905,0 -51.92158960,-23.33135009,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 161</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.92262883,-23.33322725,0 -51.92235607,-23.33296863,0 -51.92213532,-23.33267093,0 -51.92192388,-23.33226394,0 -51.92153756,-23.33139400,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 160</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.92259043,-23.33327737,0 -51.92238124,-23.33308748,0 -51.92225502,-23.33294956,0 -51.92204483,-23.33264531,0 -51.92183889,-23.33223584,0 -51.92148556,-23.33143798,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 159</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.92255201,-23.33332748,0 -51.92221479,-23.33300118,0 -51.92200113,-23.33269899,0 -51.92179256,-23.33229069,0 -51.92143360,-23.33148207,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 158</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.92251357,-23.33337758,0 -51.92217472,-23.33305265,0 -51.92195774,-23.33275248,0 -51.92174630,-23.33234548,0 -51.92138172,-23.33152633,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 157</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.92247512,-23.33342766,0 -51.92213476,-23.33310403,0 -51.92191463,-23.33280581,0 -51.92170011,-23.33240021,0 -51.92132996,-23.33157087,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 98</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.92904638,-23.32764130,0 -51.92673275,-23.32702843,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 97</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.92910355,-23.32759302,0 -51.92679027,-23.32698024,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 96</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.92916071,-23.32754474,0 -51.92684780,-23.32693206,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 108</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.92727987,-23.32717336,0 -51.92699161,-23.32722278,0 -51.92661832,-23.32733028,0 -51.92634817,-23.32743579,0 -51.92609180,-23.32756605,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 95</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.92921788,-23.32749646,0 -51.92690532,-23.32688387,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 94</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.92927553,-23.32744776,0 -51.92696285,-23.32683568,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 93</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.92933356,-23.32739874,0 -51.92702038,-23.32678750,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 110</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.92712697,-23.32713286,0 -51.92674866,-23.32722395,0 -51.92630412,-23.32738774,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 92</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.92939158,-23.32734972,0 -51.92707791,-23.32673931,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 91</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.92944972,-23.32730060,0 -51.92713545,-23.32669113,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 90</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.92950871,-23.32725076,0 -51.92719298,-23.32664295,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 112</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.92699209,-23.32709713,0 -51.92646093,-23.32725624,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 89</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.92956770,-23.32720093,0 -51.92725052,-23.32659476,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 88</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.92962669,-23.32715109,0 -51.92730806,-23.32654658,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 114</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.92686699,-23.32706399,0 -51.92659580,-23.32714319,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 87</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.92968668,-23.32710039,0 -51.92930726,-23.32701273,0 -51.92736559,-23.32649840,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 86</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.92974674,-23.32704965,0 -51.92936651,-23.32696500,0 -51.92742313,-23.32645021,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 85</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.92980682,-23.32699888,0 -51.92942589,-23.32691692,0 -51.92748069,-23.32640203,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 84</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.92986806,-23.32694713,0 -51.92939194,-23.32684489,0 -51.92753830,-23.32635387,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 83</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.92992931,-23.32689538,0 -51.92945216,-23.32679723,0 -51.92760319,-23.32630764,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 82</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.92999100,-23.32684325,0 -51.92951298,-23.32674889,0 -51.92765654,-23.32625834,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 81</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.93005356,-23.32679039,0 -51.92947987,-23.32667789,0 -51.92770923,-23.32620887,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 80</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.93011612,-23.32673752,0 -51.92954139,-23.32662972,0 -51.92776657,-23.32616064,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 79</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.93017996,-23.32668357,0 -51.92989024,-23.32664107,0 -51.92950938,-23.32655887,0 -51.92782399,-23.32611242,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 78</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.93024399,-23.32662947,0 -51.92985775,-23.32657280,0 -51.92957210,-23.32651110,0 -51.92788141,-23.32606421,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 77</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.93030901,-23.32657452,0 -51.93001827,-23.32653850,0 -51.92963571,-23.32646343,0 -51.92793884,-23.32601600,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 76</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.93037466,-23.32651905,0 -51.93008347,-23.32648624,0 -51.92969996,-23.32641549,0 -51.92799627,-23.32596779,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 75</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.93044129,-23.32646274,0 -51.93005293,-23.32642028,0 -51.92967025,-23.32634574,0 -51.92805370,-23.32591957,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 74</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.93050872,-23.32640576,0 -51.93011981,-23.32636802,0 -51.92973613,-23.32629809,0 -51.92811113,-23.32587136,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 73</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.93057747,-23.32634767,0 -51.93018793,-23.32631588,0 -51.92980341,-23.32625005,0 -51.92816857,-23.32582315,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 72</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.93064688,-23.32628902,0 -51.93025690,-23.32626235,0 -51.92987137,-23.32620180,0 -51.92822600,-23.32577494,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 71</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.93071834,-23.32622864,0 -51.93032790,-23.32620873,0 -51.92984591,-23.32613401,0 -51.92828344,-23.32572673,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 70</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.93079084,-23.32616739,0 -51.93040010,-23.32615383,0 -51.92991695,-23.32608601,0 -51.92834089,-23.32567852,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 69</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.93086480,-23.32610490,0 -51.93047385,-23.32609814,0 -51.92998957,-23.32603768,0 -51.92970397,-23.32597581,0 -51.92839834,-23.32563032,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 113</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.92379850,-23.32950130,0 -51.92359059,-23.32980712,0 -51.92342636,-23.33013473,0 -51.92330720,-23.33047865,0 -51.92320883,-23.33092081,0 -51.92317225,-23.33128033,0 -51.92317564,-23.33164146,0 -51.92329759,-23.33258125,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 111</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.92405985,-23.32928096,0 -51.92377206,-23.32964590,0 -51.92357975,-23.32996023,0 -51.92343441,-23.33029538,0 -51.92331176,-23.33073227,0 -51.92324444,-23.33117925,0 -51.92323710,-23.33154031,0 -51.92326504,-23.33190057,0 -51.92335669,-23.33253057,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 109</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <MultiGeometry>
+        <LineString><tessellate>1</tessellate><coordinates>-51.92444138,-23.32895930,0 -51.92444138,-23.32895930,0</coordinates></LineString>
+        <LineString><tessellate>1</tessellate><coordinates>-51.92444138,-23.32895930,0 -51.92406456,-23.32937455,0 -51.92378320,-23.32974366,0 -51.92360113,-23.33006311,0 -51.92344071,-23.33048925,0 -51.92334072,-23.33093109,0 -51.92330145,-23.33138087,0 -51.92332363,-23.33183178,0 -51.92341581,-23.33248008,0</coordinates></LineString>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 107</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.92746642,-23.32722278,0 -51.92707871,-23.32726637,0 -51.92670312,-23.32736674,0 -51.92634249,-23.32750620,0 -51.92600725,-23.32769168,0 -51.92555540,-23.32803699,0 -51.92477654,-23.32872222,0 -51.92431293,-23.32918722,0 -51.92395366,-23.32961551,0 -51.92374814,-23.32992265,0 -51.92359004,-23.33025280,0 -51.92347869,-23.33059893,0 -51.92340382,-23.33095342,0 -51.92337369,-23.33122287,0 -51.92337078,-23.33158398,0 -51.92340345,-23.33194391,0 -51.92347410,-23.33242397,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 106</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.92771652,-23.32728903,0 -51.92732572,-23.32729150,0 -51.92694236,-23.32736101,0 -51.92648229,-23.32751294,0 -51.92613789,-23.32768352,0 -51.92590070,-23.32784282,0 -51.92567712,-23.32801825,0 -51.92496371,-23.32863597,0 -51.92448973,-23.32909204,0 -51.92411784,-23.32951106,0 -51.92389533,-23.32980805,0 -51.92371455,-23.33012808,0 -51.92358402,-23.33046839,0 -51.92349507,-23.33082008,0 -51.92344309,-23.33117797,0 -51.92343522,-23.33153900,0 -51.92346408,-23.33189920,0 -51.92353402,-23.33237877,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 105</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.92808261,-23.32738601,0 -51.92759589,-23.32734493,0 -51.92720608,-23.32736759,0 -51.92673471,-23.32748580,0 -51.92628898,-23.32767025,0 -51.92596567,-23.32787302,0 -51.92552328,-23.32822890,0 -51.92488806,-23.32879154,0 -51.92442328,-23.32925555,0 -51.92412039,-23.32960999,0 -51.92390551,-23.32991166,0 -51.92373726,-23.33023746,0 -51.92361930,-23.33058169,0 -51.92352646,-23.33102482,0 -51.92349949,-23.33138503,0 -51.92351420,-23.33174592,0 -51.92359321,-23.33232874,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 104</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.92900961,-23.32767236,0 -51.92844890,-23.32751363,0 -51.92796799,-23.32743306,0 -51.92748026,-23.32740541,0 -51.92709295,-23.32745097,0 -51.92662761,-23.32758847,0 -51.92627670,-23.32774739,0 -51.92595821,-23.32795663,0 -51.92544712,-23.32837715,0 -51.92481755,-23.32894515,0 -51.92442538,-23.32934813,0 -51.92407156,-23.32978021,0 -51.92392076,-23.33001251,0 -51.92383626,-23.33017537,0 -51.92368151,-23.33060324,0 -51.92361977,-23.33086809,0 -51.92357940,-23.33113639,0 -51.92356536,-23.33140695,0 -51.92357489,-23.33167770,0 -51.92365234,-23.33227825,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 103</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.92895459,-23.32771883,0 -51.92848770,-23.32758522,0 -51.92800787,-23.32749934,0 -51.92752053,-23.32746598,0 -51.92732528,-23.32747543,0 -51.92713245,-23.32750517,0 -51.92666620,-23.32763990,0 -51.92631460,-23.32779748,0 -51.92599615,-23.32800675,0 -51.92548537,-23.32842760,0 -51.92485621,-23.32899599,0 -51.92446492,-23.32939968,0 -51.92411291,-23.32983299,0 -51.92396465,-23.33006666,0 -51.92388261,-23.33023059,0 -51.92373430,-23.33066042,0 -51.92367587,-23.33092590,0 -51.92364032,-23.33119477,0 -51.92363869,-23.33164603,0 -51.92371146,-23.33222775,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 102</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.92889957,-23.32776530,0 -51.92843156,-23.32763513,0 -51.92795077,-23.32755396,0 -51.92746300,-23.32752785,0 -51.92717202,-23.32755964,0 -51.92670480,-23.32769135,0 -51.92635250,-23.32784758,0 -51.92603409,-23.32805687,0 -51.92552362,-23.32847804,0 -51.92496291,-23.32898193,0 -51.92456704,-23.32938181,0 -51.92420873,-23.32981075,0 -51.92405413,-23.33004091,0 -51.92396742,-23.33020278,0 -51.92381040,-23.33062988,0 -51.92374872,-23.33089473,0 -51.92370947,-23.33116316,0 -51.92370299,-23.33161433,0 -51.92377058,-23.33217724,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 101</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.92884454,-23.32781176,0 -51.92837527,-23.32768551,0 -51.92789357,-23.32760912,0 -51.92750324,-23.32758806,0 -51.92730819,-23.32760007,0 -51.92711615,-23.32763391,0 -51.92674342,-23.32774288,0 -51.92639042,-23.32789774,0 -51.92607202,-23.32810700,0 -51.92563340,-23.32846690,0 -51.92507011,-23.32896834,0 -51.92466989,-23.32936454,0 -51.92430578,-23.32978932,0 -51.92414520,-23.33001597,0 -51.92405366,-23.33017556,0 -51.92397686,-23.33034164,0 -51.92388716,-23.33059951,0 -51.92382211,-23.33086367,0 -51.92377902,-23.33113159,0 -51.92376735,-23.33158265,0 -51.92382970,-23.33212671,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 100</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.92878902,-23.32785863,0 -51.92841385,-23.32775664,0 -51.92793320,-23.32767482,0 -51.92744540,-23.32765043,0 -51.92715527,-23.32768794,0 -51.92678178,-23.32779460,0 -51.92642808,-23.32794805,0 -51.92610971,-23.32815731,0 -51.92567139,-23.32851753,0 -51.92503988,-23.32908372,0 -51.92464565,-23.32948496,0 -51.92429072,-23.32991625,0 -51.92409868,-23.33023056,0 -51.92402471,-23.33039774,0 -51.92393921,-23.33065682,0 -51.92384904,-23.33110036,0 -51.92383198,-23.33155124,0 -51.92388882,-23.33207618,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 99</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.92873347,-23.32790552,0 -51.92826181,-23.32778718,0 -51.92787568,-23.32772998,0 -51.92748530,-23.32771021,0 -51.92719445,-23.32774225,0 -51.92682014,-23.32784637,0 -51.92646573,-23.32799838,0 -51.92614738,-23.32820763,0 -51.92570936,-23.32856817,0 -51.92514668,-23.32907020,0 -51.92474797,-23.32946767,0 -51.92438682,-23.32989458,0 -51.92418549,-23.33020393,0 -51.92410680,-23.33036925,0 -51.92401597,-23.33062676,0 -51.92391965,-23.33106921,0 -51.92389694,-23.33151983,0 -51.92394794,-23.33202564,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 116</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.92867748,-23.32795279,0 -51.92820463,-23.32783862,0 -51.92781779,-23.32778573,0 -51.92742718,-23.32777335,0 -51.92713817,-23.32781742,0 -51.92676710,-23.32793102,0 -51.92641975,-23.32809604,0 -51.92618483,-23.32825813,0 -51.92574713,-23.32861900,0 -51.92518478,-23.32912134,0 -51.92478684,-23.32951947,0 -51.92442736,-23.32994756,0 -51.92422999,-23.33025902,0 -51.92415427,-23.33042552,0 -51.92406787,-23.33068434,0 -51.92397854,-23.33112800,0 -51.92396206,-23.33148870,0 -51.92400706,-23.33197508,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 117</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.92862141,-23.32800012,0 -51.92814730,-23.32789054,0 -51.92775978,-23.32784210,0 -51.92746671,-23.32783272,0 -51.92717687,-23.32787126,0 -51.92680500,-23.32798258,0 -51.92645701,-23.32814639,0 -51.92622224,-23.32830866,0 -51.92578485,-23.32866986,0 -51.92529173,-23.32910840,0 -51.92488953,-23.32950289,0 -51.92452407,-23.32992667,0 -51.92431744,-23.33023303,0 -51.92423670,-23.33039750,0 -51.92414462,-23.33065461,0 -51.92404898,-23.33109715,0 -51.92402764,-23.33145760,0 -51.92406617,-23.33192452,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 118</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.92856483,-23.32804789,0 -51.92808953,-23.32794286,0 -51.92770137,-23.32789909,0 -51.92740824,-23.32789680,0 -51.92712061,-23.32794804,0 -51.92675242,-23.32806925,0 -51.92649398,-23.32819691,0 -51.92625941,-23.32835943,0 -51.92582232,-23.32872094,0 -51.92532948,-23.32915975,0 -51.92492806,-23.32955491,0 -51.92456411,-23.32997977,0 -51.92436133,-23.33028826,0 -51.92422210,-23.33062540,0 -51.92411997,-23.33106668,0 -51.92409341,-23.33142683,0 -51.92412576,-23.33187353,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 119</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.92850808,-23.32809577,0 -51.92812788,-23.32801124,0 -51.92774036,-23.32796296,0 -51.92744727,-23.32795555,0 -51.92715873,-23.32800156,0 -51.92678975,-23.32812069,0 -51.92653084,-23.32824750,0 -51.92629649,-23.32841027,0 -51.92585970,-23.32877210,0 -51.92536717,-23.32921120,0 -51.92496650,-23.32960701,0 -51.92466136,-23.32995977,0 -51.92444944,-23.33026307,0 -51.92430043,-23.33059653,0 -51.92419156,-23.33103642,0 -51.92415963,-23.33139616,0 -51.92418554,-23.33182236,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 120</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.92845086,-23.32814403,0 -51.92806968,-23.32806343,0 -51.92768148,-23.32802002,0 -51.92738844,-23.32802102,0 -51.92710247,-23.32807989,0 -51.92682681,-23.32817230,0 -51.92656742,-23.32829825,0 -51.92633332,-23.32846131,0 -51.92589686,-23.32882348,0 -51.92533599,-23.32932721,0 -51.92500479,-23.32965938,0 -51.92470089,-23.33001306,0 -51.92449263,-23.33031843,0 -51.92435046,-23.33065444,0 -51.92426374,-23.33100654,0 -51.92422620,-23.33136581,0 -51.92424603,-23.33177055,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 121</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.92839331,-23.32819258,0 -51.92801114,-23.32811613,0 -51.92762231,-23.32807798,0 -51.92738436,-23.32808276,0 -51.92713993,-23.32813319,0 -51.92686367,-23.32822407,0 -51.92660381,-23.32834913,0 -51.92636997,-23.32851250,0 -51.92593384,-23.32887502,0 -51.92544195,-23.32931473,0 -51.92510706,-23.32964374,0 -51.92479846,-23.32999392,0 -51.92458145,-23.33029417,0 -51.92442879,-23.33062613,0 -51.92433648,-23.33097698,0 -51.92429308,-23.33133568,0 -51.92430686,-23.33171840,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 122</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.92833544,-23.32824140,0 -51.92795226,-23.32816940,0 -51.92756285,-23.32813704,0 -51.92736774,-23.32814636,0 -51.92708370,-23.32821316,0 -51.92681101,-23.32831269,0 -51.92655951,-23.32845141,0 -51.92597066,-23.32892670,0 -51.92547910,-23.32936672,0 -51.92514490,-23.32969633,0 -51.92483754,-23.33004744,0 -51.92462389,-23.33034967,0 -51.92447853,-23.33068440,0 -51.92439215,-23.33103656,0 -51.92436059,-23.33130578,0 -51.92436815,-23.33166576,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 123</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.92827705,-23.32829066,0 -51.92789289,-23.32822327,0 -51.92760074,-23.32819911,0 -51.92736598,-23.32820826,0 -51.92712045,-23.32826628,0 -51.92684714,-23.32836434,0 -51.92659546,-23.32850270,0 -51.92600719,-23.32897862,0 -51.92558495,-23.32935495,0 -51.92524732,-23.32968157,0 -51.92493529,-23.33002914,0 -51.92471344,-23.33032642,0 -51.92458863,-23.33057128,0 -51.92448341,-23.33091890,0 -51.92442849,-23.33127627,0 -51.92443015,-23.33161021,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 124</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.92821814,-23.32834032,0 -51.92783304,-23.32827778,0 -51.92749822,-23.32825880,0 -51.92734591,-23.32827353,0 -51.92706411,-23.32834823,0 -51.92679548,-23.32845658,0 -51.92663109,-23.32855421,0 -51.92604343,-23.32903080,0 -51.92562150,-23.32940741,0 -51.92528453,-23.32973461,0 -51.92497373,-23.33008312,0 -51.92475501,-23.33038229,0 -51.92463613,-23.33062963,0 -51.92453766,-23.33097897,0 -51.92449685,-23.33124714,0 -51.92449297,-23.33155461,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 125</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.92815873,-23.32839038,0 -51.92777270,-23.32833297,0 -51.92747982,-23.32832031,0 -51.92734054,-23.32833680,0 -51.92709996,-23.32840118,0 -51.92683077,-23.32850830,0 -51.92666641,-23.32860593,0 -51.92615087,-23.32902157,0 -51.92565777,-23.32946013,0 -51.92532150,-23.32978794,0 -51.92507147,-23.33006572,0 -51.92484524,-23.33036024,0 -51.92471667,-23.33060336,0 -51.92463227,-23.33086267,0 -51.92456577,-23.33121841,0 -51.92455675,-23.33149872,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 126</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.92809877,-23.32844090,0 -51.92780916,-23.32839795,0 -51.92751651,-23.32838053,0 -51.92736972,-23.32839347,0 -51.92713546,-23.32845436,0 -51.92686568,-23.32856020,0 -51.92670138,-23.32865790,0 -51.92618649,-23.32907423,0 -51.92569376,-23.32951315,0 -51.92535823,-23.32984160,0 -51.92505012,-23.33019213,0 -51.92488584,-23.33041647,0 -51.92479866,-23.33057803,0 -51.92470751,-23.33083533,0 -51.92463531,-23.33119014,0 -51.92462166,-23.33144232,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 127</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.92803819,-23.32849195,0 -51.92774788,-23.32845324,0 -51.92745498,-23.32844382,0 -51.92726387,-23.32848087,0 -51.92707849,-23.32853836,0 -51.92690015,-23.32861232,0 -51.92673596,-23.32871013,0 -51.92622174,-23.32912721,0 -51.92545974,-23.32982821,0 -51.92520688,-23.33010380,0 -51.92497673,-23.33039577,0 -51.92488240,-23.33055387,0 -51.92478347,-23.33080862,0 -51.92470546,-23.33116239,0 -51.92468796,-23.33138499,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 128</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.92797688,-23.32854358,0 -51.92749053,-23.32850299,0 -51.92729859,-23.32853514,0 -51.92711281,-23.32859151,0 -51.92693410,-23.32866470,0 -51.92677011,-23.32876275,0 -51.92625659,-23.32918059,0 -51.92556154,-23.32981579,0 -51.92530486,-23.33008836,0 -51.92506930,-23.33037670,0 -51.92496811,-23.33053117,0 -51.92486016,-23.33078267,0 -51.92479258,-23.33104623,0 -51.92475611,-23.33132649,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 129</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.92791474,-23.32859583,0 -51.92747805,-23.32856455,0 -51.92733267,-23.32858971,0 -51.92705578,-23.32867866,0 -51.92680371,-23.32881578,0 -51.92629093,-23.32923441,0 -51.92559675,-23.32987041,0 -51.92534118,-23.33014387,0 -51.92510756,-23.33043352,0 -51.92501002,-23.33058994,0 -51.92493774,-23.33075765,0 -51.92486531,-23.33102007,0 -51.92482613,-23.33126903,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 130</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.92785179,-23.32864877,0 -51.92746194,-23.32862689,0 -51.92727215,-23.32866956,0 -51.92708867,-23.32873196,0 -51.92683676,-23.32886919,0 -51.92632476,-23.32928867,0 -51.92563158,-23.32992557,0 -51.92520032,-23.33041611,0 -51.92509599,-23.33056880,0 -51.92501644,-23.33073363,0 -51.92493844,-23.33099463,0 -51.92489885,-23.33120890,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 131</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.92778778,-23.32870258,0 -51.92744982,-23.32868983,0 -51.92721178,-23.32875270,0 -51.92703210,-23.32882379,0 -51.92679336,-23.32898028,0 -51.92635793,-23.32934350,0 -51.92566579,-23.32998136,0 -51.92523725,-23.33047389,0 -51.92513659,-23.33062861,0 -51.92506313,-23.33079585,0 -51.92497554,-23.33114205,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 132</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.92772253,-23.32875722,0 -51.92743033,-23.32875558,0 -51.92724296,-23.32880715,0 -51.92706302,-23.32887766,0 -51.92682517,-23.32903528,0 -51.92639030,-23.32939909,0 -51.92576540,-23.32997141,0 -51.92532965,-23.33045855,0 -51.92522252,-23.33060959,0 -51.92515848,-23.33073175,0 -51.92505616,-23.33107186,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 133</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.92765596,-23.32881296,0 -51.92746083,-23.32881188,0 -51.92727302,-23.32886198,0 -51.92704755,-23.32895556,0 -51.92685611,-23.32909103,0 -51.92642181,-23.32945542,0 -51.92586478,-23.32996275,0 -51.92548177,-23.33037301,0 -51.92526144,-23.33067100,0 -51.92518720,-23.33083789,0 -51.92514029,-23.33099861,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 134</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.92758695,-23.32886990,0 -51.92748921,-23.32886946,0 -51.92739414,-23.32889033,0 -51.92708209,-23.32900752,0 -51.92688531,-23.32914821,0 -51.92645162,-23.32951323,0 -51.92589554,-23.33002143,0 -51.92557483,-23.33036217,0 -51.92534650,-23.33065525,0 -51.92528090,-23.33077746,0 -51.92522926,-23.33092116,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 135</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.92752164,-23.32892922,0 -51.92733239,-23.32897205,0 -51.92710833,-23.32906428,0 -51.92691745,-23.32920315,0 -51.92648424,-23.32956867,0 -51.92606448,-23.32994734,0 -51.92573347,-23.33027963,0 -51.92543611,-23.33063788,0 -51.92532752,-23.33083564,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 136</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.92744605,-23.32900352,0 -51.92726104,-23.32906184,0 -51.92713595,-23.32912042,0 -51.92657932,-23.32956969,0 -51.92588836,-23.33020859,0 -51.92563765,-23.33048584,0 -51.92545600,-23.33072386,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 137</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.92734928,-23.32909578,0 -51.92713298,-23.32919724,0 -51.92672798,-23.32952508,0 -51.92609678,-23.33009153,0 -51.92569817,-23.33051329,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 138</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.92719907,-23.32922824,0 -51.92682843,-23.32952250,0 -51.92624530,-23.33003854,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 174</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.92321739,-23.33265016,0 -51.92301177,-23.33245718,0 -51.92285268,-23.33223007,0 -51.92265128,-23.33181866,0 -51.92221499,-23.33082543,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 115</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <MultiGeometry>
+        <LineString><tessellate>1</tessellate><coordinates>-51.92360167,-23.32966723,0 -51.92360167,-23.32966723,0</coordinates></LineString>
+        <LineString><tessellate>1</tessellate><coordinates>-51.92360167,-23.32966723,0 -51.92346184,-23.32990532,0 -51.92331519,-23.33024000,0 -51.92321026,-23.33058789,0 -51.92312639,-23.33103257,0 -51.92310524,-23.33130276,0 -51.92311078,-23.33166388,0 -51.92323851,-23.33263201,0</coordinates></LineString>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 175</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.92323057,-23.33257868,0 -51.92303083,-23.33238072,0 -51.92288182,-23.33214775,0 -51.92226714,-23.33078178,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 176</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.92321613,-23.33248167,0 -51.92308597,-23.33234705,0 -51.92293741,-23.33211387,0 -51.92231929,-23.33073815,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 177</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.92320090,-23.33237936,0 -51.92308358,-23.33223516,0 -51.92294976,-23.33199425,0 -51.92237145,-23.33069452,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 178</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.92318371,-23.33226391,0 -51.92308250,-23.33210952,0 -51.92295927,-23.33186366,0 -51.92242360,-23.33065090,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 179</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.92316197,-23.33211784,0 -51.92295867,-23.33170729,0 -51.92247576,-23.33060728,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 180</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.92313559,-23.33192979,0 -51.92252793,-23.33056367,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 181</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.92311615,-23.33173780,0 -51.92258009,-23.33052006,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 182</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.92310560,-23.33155773,0 -51.92263226,-23.33047645,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 183</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.92310331,-23.33139259,0 -51.92268442,-23.33043284,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 184</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.92310807,-23.33124162,0 -51.92273659,-23.33038924,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 185</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.92311867,-23.33110296,0 -51.92278876,-23.33034564,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 186</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.92313400,-23.33097480,0 -51.92284093,-23.33030204,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 187</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.92315312,-23.33085533,0 -51.92289310,-23.33025845,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 188</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.92317508,-23.33074239,0 -51.92294528,-23.33021488,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 189</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.92319910,-23.33063416,0 -51.92299750,-23.33017139,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 190</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.92322496,-23.33053017,0 -51.92305156,-23.33013213,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 191</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.92325274,-23.33043059,0 -51.92310401,-23.33008919,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 192</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.92328236,-23.33033524,0 -51.92315523,-23.33004341,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 193</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.92331377,-23.33024398,0 -51.92320728,-23.32999955,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 194</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.92334689,-23.33015667,0 -51.92325934,-23.32995569,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 195</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.92338167,-23.33007315,0 -51.92331140,-23.32991184,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 196</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.92341802,-23.32999324,0 -51.92336346,-23.32986798,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 197</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.92345585,-23.32991673,0 -51.92341551,-23.32982412,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 198</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.92349507,-23.32984340,0 -51.92346756,-23.32978026,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 199</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.92353555,-23.32977296,0 -51.92351961,-23.32973639,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 200</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.92357718,-23.32970517,0 -51.92357166,-23.32969252,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 156</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.92243665,-23.33347774,0 -51.92209487,-23.33315533,0 -51.92187178,-23.33285897,0 -51.92165404,-23.33245489,0 -51.92127852,-23.33161614,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 155</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.92239821,-23.33352775,0 -51.92205509,-23.33320651,0 -51.92193601,-23.33306326,0 -51.92178008,-23.33283387,0 -51.92156864,-23.33242685,0 -51.92123040,-23.33166903,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 154</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.92235975,-23.33357774,0 -51.92201538,-23.33325760,0 -51.92189502,-23.33311527,0 -51.92173683,-23.33288719,0 -51.92152246,-23.33248151,0 -51.92117524,-23.33170577,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 153</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.92232128,-23.33362772,0 -51.92197573,-23.33330863,0 -51.92185417,-23.33316716,0 -51.92169383,-23.33294036,0 -51.92147637,-23.33253612,0 -51.92112321,-23.33174968,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 152</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.92228278,-23.33367768,0 -51.92193616,-23.33335956,0 -51.92165106,-23.33299338,0 -51.92143042,-23.33259065,0 -51.92107114,-23.33179352,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 151</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.92224426,-23.33372762,0 -51.92189660,-23.33341043,0 -51.92160850,-23.33304624,0 -51.92138458,-23.33264509,0 -51.92101907,-23.33183734,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 150</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.92220571,-23.33377754,0 -51.92185711,-23.33346121,0 -51.92156611,-23.33309897,0 -51.92133885,-23.33269945,0 -51.92096699,-23.33188115,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 149</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.92216712,-23.33382743,0 -51.92195247,-23.33364274,0 -51.92175350,-23.33344372,0 -51.92147288,-23.33307448,0 -51.92125262,-23.33267154,0 -51.92091491,-23.33192495,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 148</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.92212850,-23.33387722,0 -51.92171365,-23.33349461,0 -51.92143010,-23.33312728,0 -51.92120674,-23.33272582,0 -51.92086283,-23.33196875,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 147</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.92208978,-23.33392692,0 -51.92167374,-23.33354537,0 -51.92138744,-23.33317985,0 -51.92116092,-23.33277993,0 -51.92081075,-23.33201254,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 146</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.92205072,-23.33397635,0 -51.92163361,-23.33359575,0 -51.92134471,-23.33323197,0 -51.92111504,-23.33283360,0 -51.92075869,-23.33205631,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 145</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.92200779,-23.33402267,0 -51.92159018,-23.33364252,0 -51.92129939,-23.33328001,0 -51.92106713,-23.33288294,0 -51.92070663,-23.33210008,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 144</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.92197184,-23.33407461,0 -51.92155283,-23.33369574,0 -51.92125918,-23.33333518,0 -51.92102333,-23.33293993,0 -51.92065457,-23.33214385,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 143</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.92193684,-23.33412731,0 -51.92151648,-23.33374969,0 -51.92121983,-23.33339122,0 -51.92106940,-23.33315866,0 -51.92093827,-23.33291631,0 -51.92060253,-23.33218759,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 142</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.92189883,-23.33417758,0 -51.92147747,-23.33380088,0 -51.92129101,-23.33359178,0 -51.92112547,-23.33336815,0 -51.92089316,-23.33297108,0 -51.92055049,-23.33223133,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 141</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.92186045,-23.33422756,0 -51.92143820,-23.33385168,0 -51.92125055,-23.33364348,0 -51.92108343,-23.33342086,0 -51.92084800,-23.33302536,0 -51.92049846,-23.33227507,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 140</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.92182189,-23.33427736,0 -51.92139882,-23.33390226,0 -51.92121004,-23.33369493,0 -51.92104138,-23.33347330,0 -51.92076088,-23.33299780,0 -51.92044644,-23.33231878,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 139</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.92178324,-23.33432706,0 -51.92135933,-23.33395273,0 -51.92116952,-23.33374621,0 -51.92099940,-23.33352552,0 -51.92071541,-23.33305181,0 -51.92039443,-23.33236248,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 201</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.92174448,-23.33437667,0 -51.92131980,-23.33400307,0 -51.92112899,-23.33379731,0 -51.92095746,-23.33357757,0 -51.92067002,-23.33310563,0 -51.92034242,-23.33240618,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 202</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.92170562,-23.33442620,0 -51.92128024,-23.33405327,0 -51.92108848,-23.33384827,0 -51.92091553,-23.33362947,0 -51.92062478,-23.33315927,0 -51.92029042,-23.33244986,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 203</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.92166665,-23.33447566,0 -51.92124059,-23.33410337,0 -51.92104792,-23.33389910,0 -51.92087368,-23.33368117,0 -51.92057962,-23.33321272,0 -51.92023845,-23.33249353,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 204</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.92162750,-23.33452496,0 -51.92133809,-23.33428194,0 -51.92113447,-23.33408691,0 -51.92094670,-23.33387878,0 -51.92077737,-23.33365757,0 -51.92049146,-23.33318479,0 -51.92018647,-23.33253719,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 205</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.92158455,-23.33457126,0 -51.92129504,-23.33432834,0 -51.92109111,-23.33413357,0 -51.92090272,-23.33392592,0 -51.92073237,-23.33370538,0 -51.92044387,-23.33323394,0 -51.92013450,-23.33258083,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 206</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.92154738,-23.33462213,0 -51.92105294,-23.33418538,0 -51.92086340,-23.33397862,0 -51.92069164,-23.33375901,0 -51.92039971,-23.33328937,0 -51.92008256,-23.33262445,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 207</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.92151301,-23.33467521,0 -51.92101726,-23.33423970,0 -51.92082655,-23.33403385,0 -51.92065314,-23.33381535,0 -51.92035737,-23.33334776,0 -51.92003061,-23.33266806,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 208</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.92147311,-23.33472392,0 -51.92097667,-23.33428906,0 -51.92078519,-23.33408383,0 -51.92061066,-23.33386608,0 -51.92031198,-23.33340006,0 -51.91997868,-23.33271166,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 209</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.92143293,-23.33477241,0 -51.92093593,-23.33433809,0 -51.92056808,-23.33391645,0 -51.92026659,-23.33345196,0 -51.91992678,-23.33275522,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 210</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.92139255,-23.33482074,0 -51.92089500,-23.33438693,0 -51.92052539,-23.33396659,0 -51.92022118,-23.33350360,0 -51.91987487,-23.33279878,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 211</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.92135201,-23.33486895,0 -51.92085393,-23.33443564,0 -51.92048271,-23.33401648,0 -51.92017586,-23.33355498,0 -51.91982298,-23.33284231,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 212</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.92131133,-23.33491702,0 -51.92081273,-23.33448421,0 -51.92043992,-23.33406623,0 -51.92022664,-23.33376347,0 -51.92008517,-23.33352613,0 -51.91977112,-23.33288582,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 213</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.92126908,-23.33496387,0 -51.92077012,-23.33453139,0 -51.92039608,-23.33411434,0 -51.92018140,-23.33381242,0 -51.92003859,-23.33357577,0 -51.91971925,-23.33292931,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 214</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.92120802,-23.33499590,0 -51.92071062,-23.33456190,0 -51.92033778,-23.33414392,0 -51.92012348,-23.33384177,0 -51.91998069,-23.33360511,0 -51.91966740,-23.33297277,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 215</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.92115085,-23.33503097,0 -51.92065461,-23.33459585,0 -51.92028247,-23.33417732,0 -51.92006818,-23.33387516,0 -51.91992512,-23.33363863,0 -51.91961558,-23.33301619,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 216</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.92111524,-23.33508307,0 -51.92061797,-23.33464893,0 -51.92024375,-23.33423197,0 -51.92002752,-23.33393099,0 -51.91988281,-23.33369532,0 -51.91956375,-23.33305960,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 217</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.92108031,-23.33513570,0 -51.92058196,-23.33470259,0 -51.92032463,-23.33443059,0 -51.92014867,-23.33421380,0 -51.91984109,-23.33375265,0 -51.91951194,-23.33310295,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 218</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.92103191,-23.33517770,0 -51.92053383,-23.33474432,0 -51.92027637,-23.33447242,0 -51.92010003,-23.33425590,0 -51.91979109,-23.33379551,0 -51.91946015,-23.33314625,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 219</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.92093838,-23.33518379,0 -51.92078146,-23.33505438,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 220</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.92061471,-23.33490776,0 -51.92022106,-23.33450624,0 -51.91993564,-23.33413976,0 -51.91968991,-23.33374951,0 -51.91940834,-23.33318952,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 221</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <MultiGeometry>
+        <LineString><tessellate>1</tessellate><coordinates>-51.92024666,-23.33463082,0 -51.92024666,-23.33463082,0</coordinates></LineString>
+        <LineString><tessellate>1</tessellate><coordinates>-51.92024666,-23.33463082,0 -51.92000687,-23.33434548,0 -51.91974280,-23.33396557,0 -51.91955980,-23.33364633,0 -51.91935656,-23.33323269,0</coordinates></LineString>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 222</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.91999067,-23.33442893,0 -51.91977212,-23.33412938,0 -51.91962438,-23.33389531,0 -51.91930476,-23.33327579,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 223</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.91978640,-23.33426335,0 -51.91953747,-23.33387482,0 -51.91925291,-23.33331877,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 224</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.91959261,-23.33409085,0 -51.91940663,-23.33377309,0 -51.91920103,-23.33336150,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 225</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.91946497,-23.33400719,0 -51.91914889,-23.33340367,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 226</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <LineString><tessellate>1</tessellate><coordinates>-51.91930380,-23.33385568,0 -51.91909544,-23.33344304,0</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+      <name>Linhas de Projeto1 227</name>
+      <Style><LineStyle><color>ff37508c</color><width>3</width></LineStyle></Style>
+      <ExtendedData>
+        <Data name="camada"><value>Linhas de Projeto1</value></Data>
+        <Data name="classificacao"><value>Linhas de Projeto1</value></Data>
+      </ExtendedData>
+      <MultiGeometry>
+        <LineString><tessellate>1</tessellate><coordinates>-51.91916756,-23.33373712,0 -51.91916756,-23.33373712,0</coordinates></LineString>
+        <LineString><tessellate>1</tessellate><coordinates>-51.91916756,-23.33373712,0 -51.91904422,-23.33348695,0</coordinates></LineString>
+      </MultiGeometry>
+    </Placemark>
+  </Document>
+</kml>
