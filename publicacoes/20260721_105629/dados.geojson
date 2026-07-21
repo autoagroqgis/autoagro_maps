@@ -1,0 +1,1003 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Manobra_linha 1",
+        "layer": "Manobra_linha",
+        "classification": "Manobra_linha",
+        "color": "#20ffe7",
+        "geometry_type": "polygon",
+        "is_selected_area": true
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -51.93440977216237,
+              -23.323046688227457
+            ],
+            [
+              -51.934320018053604,
+              -23.32288740880168
+            ],
+            [
+              -51.93383893675857,
+              -23.32187769489898
+            ],
+            [
+              -51.933648384632825,
+              -23.321422355835125
+            ],
+            [
+              -51.93360427180073,
+              -23.3212247964615
+            ],
+            [
+              -51.93349641201241,
+              -23.3213317326619
+            ],
+            [
+              -51.93004656025034,
+              -23.32423044843243
+            ],
+            [
+              -51.92993671399282,
+              -23.324386314073916
+            ],
+            [
+              -51.929769297586915,
+              -23.324467301794602
+            ],
+            [
+              -51.92763154174262,
+              -23.326286226877052
+            ],
+            [
+              -51.92596384872931,
+              -23.32767397881917
+            ],
+            [
+              -51.92582780000111,
+              -23.32780562765349
+            ],
+            [
+              -51.9216906317116,
+              -23.33126503333716
+            ],
+            [
+              -51.92123133198424,
+              -23.331668254179657
+            ],
+            [
+              -51.91906474561305,
+              -23.333466488204607
+            ],
+            [
+              -51.919013932648994,
+              -23.333550873270482
+            ],
+            [
+              -51.91905187779505,
+              -23.333616682159057
+            ],
+            [
+              -51.91944864058068,
+              -23.33399412956951
+            ],
+            [
+              -51.91961311844692,
+              -23.3341049024079
+            ],
+            [
+              -51.9198512821583,
+              -23.334317558795995
+            ],
+            [
+              -51.92043334264746,
+              -23.334786125581285
+            ],
+            [
+              -51.92068123136778,
+              -23.334949501367323
+            ],
+            [
+              -51.920879535951215,
+              -23.335153673557176
+            ],
+            [
+              -51.920968974059384,
+              -23.335188317482285
+            ],
+            [
+              -51.921054433478574,
+              -23.335165089319673
+            ],
+            [
+              -51.921152281088766,
+              -23.335029431301784
+            ],
+            [
+              -51.92127441910635,
+              -23.33495933107894
+            ],
+            [
+              -51.92152050468334,
+              -23.334665971004505
+            ],
+            [
+              -51.92278181708324,
+              -23.333025038655244
+            ],
+            [
+              -51.9268623209199,
+              -23.329502629668138
+            ],
+            [
+              -51.926909348908204,
+              -23.32947767993165
+            ],
+            [
+              -51.92719753242359,
+              -23.329229575328583
+            ],
+            [
+              -51.92757356101302,
+              -23.32887991188709
+            ],
+            [
+              -51.9318174464179,
+              -23.325304521426098
+            ],
+            [
+              -51.9318125980209,
+              -23.325201222623715
+            ],
+            [
+              -51.9317246430355,
+              -23.32506613737897
+            ],
+            [
+              -51.93126444231338,
+              -23.32470339061739
+            ],
+            [
+              -51.931215347244084,
+              -23.32463401293658
+            ],
+            [
+              -51.9312124902237,
+              -23.324583048273663
+            ],
+            [
+              -51.93123451599349,
+              -23.324531674908364
+            ],
+            [
+              -51.93142051492213,
+              -23.32430658285902
+            ],
+            [
+              -51.93142287608767,
+              -23.324231759436184
+            ],
+            [
+              -51.93137871768767,
+              -23.324124830465486
+            ],
+            [
+              -51.931363854983836,
+              -23.32400429377369
+            ],
+            [
+              -51.931371538382336,
+              -23.323938814707063
+            ],
+            [
+              -51.931409278666344,
+              -23.323884511539045
+            ],
+            [
+              -51.93175194384644,
+              -23.32373899369517
+            ],
+            [
+              -51.93187327855465,
+              -23.32366939937387
+            ],
+            [
+              -51.93203117712751,
+              -23.323660984929415
+            ],
+            [
+              -51.93212829326438,
+              -23.32368063225277
+            ],
+            [
+              -51.93231847905626,
+              -23.32378831392545
+            ],
+            [
+              -51.93255662599345,
+              -23.323979974757915
+            ],
+            [
+              -51.93279173509564,
+              -23.32425435568362
+            ],
+            [
+              -51.93287511726972,
+              -23.324386345610694
+            ],
+            [
+              -51.93311613612791,
+              -23.324204166254976
+            ],
+            [
+              -51.934320657563084,
+              -23.323179930857837
+            ],
+            [
+              -51.934403783653835,
+              -23.323100551764337
+            ],
+            [
+              -51.93440977216237,
+              -23.323046688227457
+            ]
+          ],
+          [
+            [
+              -51.93104345170708,
+              -23.323637739882244
+            ],
+            [
+              -51.93108386851751,
+              -23.32359267192312
+            ],
+            [
+              -51.93114619834989,
+              -23.323582139892267
+            ],
+            [
+              -51.93120127642463,
+              -23.32361107183535
+            ],
+            [
+              -51.931217540907205,
+              -23.323636705339357
+            ],
+            [
+              -51.9312179486797,
+              -23.323695221444776
+            ],
+            [
+              -51.93117753188609,
+              -23.32374028943745
+            ],
+            [
+              -51.931115201983324,
+              -23.323750821482854
+            ],
+            [
+              -51.931060123867354,
+              -23.32372188951127
+            ],
+            [
+              -51.931043859403374,
+              -23.32369625599056
+            ],
+            [
+              -51.93104345170708,
+              -23.323637739882244
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "1",
+        "layer": "Grade amostral",
+        "classification": "Grade amostral",
+        "color": "#ff2323",
+        "geometry_type": "point",
+        "is_selected_area": false
+      },
+      "geometry": {
+        "coordinates": [
+          -51.93345267904323,
+          -23.321818998302945
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "2",
+        "layer": "Grade amostral",
+        "classification": "Grade amostral",
+        "color": "#ff2323",
+        "geometry_type": "point",
+        "is_selected_area": false
+      },
+      "geometry": {
+        "coordinates": [
+          -51.93345898765678,
+          -23.322722185634273
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "3",
+        "layer": "Grade amostral",
+        "classification": "Grade amostral",
+        "color": "#ff2323",
+        "geometry_type": "point",
+        "is_selected_area": false
+      },
+      "geometry": {
+        "coordinates": [
+          -51.93248099154131,
+          -23.322728008785315
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "4",
+        "layer": "Grade amostral",
+        "classification": "Grade amostral",
+        "color": "#ff2323",
+        "geometry_type": "point",
+        "is_selected_area": false
+      },
+      "geometry": {
+        "coordinates": [
+          -51.93346529658627,
+          -23.323625372859933
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "5",
+        "layer": "Grade amostral",
+        "classification": "Grade amostral",
+        "color": "#ff2323",
+        "geometry_type": "point",
+        "is_selected_area": false
+      },
+      "geometry": {
+        "coordinates": [
+          -51.9324872938632,
+          -23.323631196262568
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "6",
+        "layer": "Grade amostral",
+        "classification": "Grade amostral",
+        "color": "#ff2323",
+        "geometry_type": "point",
+        "is_selected_area": false
+      },
+      "geometry": {
+        "coordinates": [
+          -51.93150929082451,
+          -23.32363701356265
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "7",
+        "layer": "Grade amostral",
+        "classification": "Grade amostral",
+        "color": "#ff2323",
+        "geometry_type": "point",
+        "is_selected_area": false
+      },
+      "geometry": {
+        "coordinates": [
+          -51.93053757689214,
+          -23.324546012634148
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "8",
+        "layer": "Grade amostral",
+        "classification": "Grade amostral",
+        "color": "#ff2323",
+        "geometry_type": "point",
+        "is_selected_area": false
+      },
+      "geometry": {
+        "coordinates": [
+          -51.93152188319891,
+          -23.32544338870278
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "9",
+        "layer": "Grade amostral",
+        "classification": "Grade amostral",
+        "color": "#ff2323",
+        "geometry_type": "point",
+        "is_selected_area": false
+      },
+      "geometry": {
+        "coordinates": [
+          -51.9305438666287,
+          -23.325449200402453
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "10",
+        "layer": "Grade amostral",
+        "classification": "Grade amostral",
+        "color": "#ff2323",
+        "geometry_type": "point",
+        "is_selected_area": false
+      },
+      "geometry": {
+        "coordinates": [
+          -51.92956584974351,
+          -23.32545500599903
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "11",
+        "layer": "Grade amostral",
+        "classification": "Grade amostral",
+        "color": "#ff2323",
+        "geometry_type": "point",
+        "is_selected_area": false
+      },
+      "geometry": {
+        "coordinates": [
+          -51.93055015668022,
+          -23.326352388065075
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "12",
+        "layer": "Grade amostral",
+        "classification": "Grade amostral",
+        "color": "#ff2323",
+        "geometry_type": "point",
+        "is_selected_area": false
+      },
+      "geometry": {
+        "coordinates": [
+          -51.92957213318642,
+          -23.326358193912462
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "13",
+        "layer": "Grade amostral",
+        "classification": "Grade amostral",
+        "color": "#ff2323",
+        "geometry_type": "point",
+        "is_selected_area": false
+      },
+      "geometry": {
+        "coordinates": [
+          -51.92859410937797,
+          -23.326363993656482
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "14",
+        "layer": "Grade amostral",
+        "classification": "Grade amostral",
+        "color": "#ff2323",
+        "geometry_type": "point",
+        "is_selected_area": false
+      },
+      "geometry": {
+        "coordinates": [
+          -51.92761608525519,
+          -23.326369787297143
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "15",
+        "layer": "Grade amostral",
+        "classification": "Grade amostral",
+        "color": "#ff2323",
+        "geometry_type": "point",
+        "is_selected_area": false
+      },
+      "geometry": {
+        "coordinates": [
+          -51.928600386526554,
+          -23.327267181714802
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "16",
+        "layer": "Grade amostral",
+        "classification": "Grade amostral",
+        "color": "#ff2323",
+        "geometry_type": "point",
+        "is_selected_area": false
+      },
+      "geometry": {
+        "coordinates": [
+          -51.9276223557948,
+          -23.327272975605744
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "17",
+        "layer": "Grade amostral",
+        "classification": "Grade amostral",
+        "color": "#ff2323",
+        "geometry_type": "point",
+        "is_selected_area": false
+      },
+      "geometry": {
+        "coordinates": [
+          -51.92664432474906,
+          -23.327278763393036
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "18",
+        "layer": "Grade amostral",
+        "classification": "Grade amostral",
+        "color": "#ff2323",
+        "geometry_type": "point",
+        "is_selected_area": false
+      },
+      "geometry": {
+        "coordinates": [
+          -51.9276286266484,
+          -23.32817616380867
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "19",
+        "layer": "Grade amostral",
+        "classification": "Grade amostral",
+        "color": "#ff2323",
+        "geometry_type": "point",
+        "is_selected_area": false
+      },
+      "geometry": {
+        "coordinates": [
+          -51.926650588993354,
+          -23.328181951845995
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "20",
+        "layer": "Grade amostral",
+        "classification": "Grade amostral",
+        "color": "#ff2323",
+        "geometry_type": "point",
+        "is_selected_area": false
+      },
+      "geometry": {
+        "coordinates": [
+          -51.92567255102462,
+          -23.328187733779398
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "21",
+        "layer": "Grade amostral",
+        "classification": "Grade amostral",
+        "color": "#ff2323",
+        "geometry_type": "point",
+        "is_selected_area": false
+      },
+      "geometry": {
+        "coordinates": [
+          -51.92665685355131,
+          -23.32908514019329
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "22",
+        "layer": "Grade amostral",
+        "classification": "Grade amostral",
+        "color": "#ff2323",
+        "geometry_type": "point",
+        "is_selected_area": false
+      },
+      "geometry": {
+        "coordinates": [
+          -51.925678808972926,
+          -23.32909092237646
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "23",
+        "layer": "Grade amostral",
+        "classification": "Grade amostral",
+        "color": "#ff2323",
+        "geometry_type": "point",
+        "is_selected_area": false
+      },
+      "geometry": {
+        "coordinates": [
+          -51.92470076408117,
+          -23.329096698455448
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "24",
+        "layer": "Grade amostral",
+        "classification": "Grade amostral",
+        "color": "#ff2323",
+        "geometry_type": "point",
+        "is_selected_area": false
+      },
+      "geometry": {
+        "coordinates": [
+          -51.92568506723458,
+          -23.329994110867844
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "25",
+        "layer": "Grade amostral",
+        "classification": "Grade amostral",
+        "color": "#ff2323",
+        "geometry_type": "point",
+        "is_selected_area": false
+      },
+      "geometry": {
+        "coordinates": [
+          -51.924707015732835,
+          -23.32999988719634
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "26",
+        "layer": "Grade amostral",
+        "classification": "Grade amostral",
+        "color": "#ff2323",
+        "geometry_type": "point",
+        "is_selected_area": false
+      },
+      "geometry": {
+        "coordinates": [
+          -51.92372896391807,
+          -23.330005657420365
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "27",
+        "layer": "Grade amostral",
+        "classification": "Grade amostral",
+        "color": "#ff2323",
+        "geometry_type": "point",
+        "is_selected_area": false
+      },
+      "geometry": {
+        "coordinates": [
+          -51.924713267697534,
+          -23.330903075831557
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "28",
+        "layer": "Grade amostral",
+        "classification": "Grade amostral",
+        "color": "#ff2323",
+        "geometry_type": "point",
+        "is_selected_area": false
+      },
+      "geometry": {
+        "coordinates": [
+          -51.92373520927242,
+          -23.33090884630483
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "29",
+        "layer": "Grade amostral",
+        "classification": "Grade amostral",
+        "color": "#ff2323",
+        "geometry_type": "point",
+        "is_selected_area": false
+      },
+      "geometry": {
+        "coordinates": [
+          -51.92275715053461,
+          -23.330914610673393
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "30",
+        "layer": "Grade amostral",
+        "classification": "Grade amostral",
+        "color": "#ff2323",
+        "geometry_type": "point",
+        "is_selected_area": false
+      },
+      "geometry": {
+        "coordinates": [
+          -51.923741454939496,
+          -23.331812035083633
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "31",
+        "layer": "Grade amostral",
+        "classification": "Grade amostral",
+        "color": "#ff2323",
+        "geometry_type": "point",
+        "is_selected_area": false
+      },
+      "geometry": {
+        "coordinates": [
+          -51.92276338959101,
+          -23.331817799701167
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "32",
+        "layer": "Grade amostral",
+        "classification": "Grade amostral",
+        "color": "#ff2323",
+        "geometry_type": "point",
+        "is_selected_area": false
+      },
+      "geometry": {
+        "coordinates": [
+          -51.92178532393011,
+          -23.331823558213703
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "33",
+        "layer": "Grade amostral",
+        "classification": "Grade amostral",
+        "color": "#ff2323",
+        "geometry_type": "point",
+        "is_selected_area": false
+      },
+      "geometry": {
+        "coordinates": [
+          -51.92276962895978,
+          -23.33272098862328
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "34",
+        "layer": "Grade amostral",
+        "classification": "Grade amostral",
+        "color": "#ff2323",
+        "geometry_type": "point",
+        "is_selected_area": false
+      },
+      "geometry": {
+        "coordinates": [
+          -51.92179155668788,
+          -23.33272674738454
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "35",
+        "layer": "Grade amostral",
+        "classification": "Grade amostral",
+        "color": "#ff2323",
+        "geometry_type": "point",
+        "is_selected_area": false
+      },
+      "geometry": {
+        "coordinates": [
+          -51.9208134841039,
+          -23.33273250004053
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "36",
+        "layer": "Grade amostral",
+        "classification": "Grade amostral",
+        "color": "#ff2323",
+        "geometry_type": "point",
+        "is_selected_area": false
+      },
+      "geometry": {
+        "coordinates": [
+          -51.921797789757704,
+          -23.3336299364497
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "37",
+        "layer": "Grade amostral",
+        "classification": "Grade amostral",
+        "color": "#ff2323",
+        "geometry_type": "point",
+        "is_selected_area": false
+      },
+      "geometry": {
+        "coordinates": [
+          -51.920819710562384,
+          -23.333635689354157
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "38",
+        "layer": "Grade amostral",
+        "classification": "Grade amostral",
+        "color": "#ff2323",
+        "geometry_type": "point",
+        "is_selected_area": false
+      },
+      "geometry": {
+        "coordinates": [
+          -51.919841631055306,
+          -23.33364143615307
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "39",
+        "layer": "Grade amostral",
+        "classification": "Grade amostral",
+        "color": "#ff2323",
+        "geometry_type": "point",
+        "is_selected_area": false
+      },
+      "geometry": {
+        "coordinates": [
+          -51.920825937332594,
+          -23.33453887856212
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}
